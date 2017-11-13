@@ -8,7 +8,7 @@ Then, create a `projects` directory, and clone this inside of it.
 ```sh
 git clone https://github.com/OpenDroneMap/odm_data_aukerman.git
 ```
-Now, inside the OpenDroneMap directory:
+Now, inside the `OpenDroneMap` directory:
 ```sh
 ./configure.sh install
 ## Edit settings.yaml to include the abolute path to the projects folder.
